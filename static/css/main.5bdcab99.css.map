@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5bdcab99.css","mappings":"AAAA,EAEE,6CAAoD,CADpD,QAEF,CACA,QACE,oBACF","sources":["index.css"],"sourcesContent":["*{\n  margin: 0;\n  font-family: \"Roboto\",\"Helvetica\",\"Arial\",sans-serif;\n}\n.border{\n  border: 2px solid red;\n}"],"names":[],"sourceRoot":""}
